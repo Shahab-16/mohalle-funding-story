@@ -37,7 +37,11 @@ import sysRevenue from "@/assets/system-sustainable-revenue.png.asset.json";
 import sysLegal from "@/assets/system-legal-civic.png.asset.json";
 import sevaBhavanaHospital from "@/assets/seva-bhavana-hospital.png.asset.json";
 import buildingFirstHospital from "@/assets/building-first-hospital.png.asset.json";
-import { Home as HomeIcon, PawPrint } from "lucide-react";
+import phase1Financials from "@/assets/phase1-financials.png.asset.json";
+import phase1KeyFacilities from "@/assets/phase1-key-facilities.png.asset.json";
+import phase1Inside1 from "@/assets/phase1-inside-1.png.asset.json";
+import phase1Inside2 from "@/assets/phase1-inside-2.png.asset.json";
+import { Home as HomeIcon, PawPrint, IndianRupee } from "lucide-react";
 
 
 
